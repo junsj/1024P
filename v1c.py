@@ -15,6 +15,8 @@ import socket
 import json
 import sys
 
+#1
+
 class s1024:
     def __init__(self,trigger=None,d2='',deep=3):
         socket.setdefaulttimeout(30)
